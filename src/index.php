@@ -20,6 +20,7 @@ try {
   var_dump($value);
 } catch (ParseException $e) {
   $logger->error($e->getMessage());
+  exit(1);
 }
 
 // fetch
