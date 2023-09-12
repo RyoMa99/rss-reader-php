@@ -1,6 +1,7 @@
 {
     "require": {
-        "felixfbecker/language-server": "^2.3"
+        "felixfbecker/language-server": "^2.3",
+        "symfony/yaml": "^6.3"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5",
