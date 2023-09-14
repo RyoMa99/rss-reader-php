@@ -1,70 +1,70 @@
-- name: JSer.info
-  url: https://jser.info/rss/
-- name: 株式会社メドレー
-  url: https://developer.medley.jp/rss.xml
-- name: FiNC
-  url: https://medium.com/feed/finc-engineering
-- name: みてね
-  url: https://team-blog.mitene.us/feed
-- name: valid, invalid
-  url: https://ohbarye.hatenablog.jp/rss
-- name: ぷらすのブログ
-  url: https://blog.p1ass.com/index.xml
-- name: 千里霧中
-  url: https://goyoki.hatenablog.com/rss
-- name: ASnoKaze blog
-  url: https://asnokaze.hatenablog.com/rss
-- name: kawasima - Scrapbox
-  url: https://scrapbox.io/api/feed/kawasima
-- name: azukiazusa のテックブログ2
-  url: https://azukiazusa.dev/rss.xml
-- name: スタディプラス
-  url: https://tech.studyplus.co.jp/rss
-- name: クラスメソッド
-  url: https://dev.classmethod.jp/feed/
-- name: サイバーエージェント
-  url: https://developers.cyberagent.co.jp/blog/feed/
-- name: Zenn AWS Trend
-  url: https://zenn.dev/topics/aws/feed
-- name: Zenn Frontend Trend
-  url: https://zenn.dev/topics/frontend/feed
-- name: Zenn React Trend
-  url: https://zenn.dev/topics/react/feed
-- name: BASE
-  url: https://devblog.thebase.in/rss
-- name: GitHub
-  url: https://github.blog/feed/
-- name: Carpe Diem
-  url: https://christina04.hatenablog.com/rss
-- name: Please Sleep
-  url: https://please-sleep.cou929.nu/rss.xml
-- name: pospomeのプログラミング日記
-  url: https://www.pospome.work/feed
-- name: piyolog
-  url: https://piyolog.hatenadiary.jp/rss
-- name: 年中アイス
-  url: https://reiki4040.hatenablog.com/rss
-- name: 地方エンジニアの学習日記
-  url: https://ryuichi1208.hateblo.jp/rss
-- name: kakakakakku blog
-  url: https://kakakakakku.hatenablog.com/rss
-- name: フューチャー技術ブログ
-  url: https://future-architect.github.io/atom.xml
-- name: RAKUS
-  url: https://tech-blog.rakus.co.jp/feed
-- name: DeNA SWAT
-  url: https://swet.dena.com/feed
-- name: Cybozu
-  url: https://blog.cybozu.io/feed
-- name: セキュリティ関連まとめ
-  url: https://daichkr.hatelabo.jp/antenna/2261401675296895784/feed
-- name: 徳丸浩の日記
-  url: https://blog.tokumaru.org/feeds/posts/default
-- name: gihyo.jp
-  url: https://gihyo.jp/dev/feed/atom
-- name: techfeed
-  url: https://techfeed.io/feeds/channels/JavaScript?userId=5e30e9c2578ded9b4c480505
-- name: GIGAZINE
-  url: https://gigazine.net/news/rss_2.0/
+rss:
+  - name: JSer.info
+    url: https://jser.info/rss/
+  - name: 株式会社メドレー
+    url: https://developer.medley.jp/rss.xml
+  - name: FiNC
+    url: https://medium.com/feed/finc-engineering
+  - name: みてね
+    url: https://team-blog.mitene.us/feed
+  - name: valid, invalid
+    url: https://ohbarye.hatenablog.jp/rss
+  - name: ぷらすのブログ
+    url: https://blog.p1ass.com/index.xml
+  - name: 千里霧中
+    url: https://goyoki.hatenablog.com/rss
+  - name: ASnoKaze blog
+    url: https://asnokaze.hatenablog.com/rss
+  - name: kawasima - Scrapbox
+    url: https://scrapbox.io/api/feed/kawasima
+  - name: azukiazusa のテックブログ2
+    url: https://azukiazusa.dev/rss.xml
+  - name: スタディプラス
+    url: https://tech.studyplus.co.jp/rss
+  - name: クラスメソッド
+    url: https://dev.classmethod.jp/feed/
+  - name: サイバーエージェント
+    url: https://developers.cyberagent.co.jp/blog/feed/
+  - name: Zenn AWS Trend
+    url: https://zenn.dev/topics/aws/feed
+  - name: Zenn Frontend Trend
+    url: https://zenn.dev/topics/frontend/feed
+  - name: Zenn React Trend
+    url: https://zenn.dev/topics/react/feed
+  - name: BASE
+    url: https://devblog.thebase.in/rss
+  - name: GitHub
+    url: https://github.blog/feed/
+  - name: Carpe Diem
+    url: https://christina04.hatenablog.com/rss
+  - name: Please Sleep
+    url: https://please-sleep.cou929.nu/rss.xml
+  - name: piyolog
+    url: https://piyolog.hatenadiary.jp/rss
+  - name: 年中アイス
+    url: https://reiki4040.hatenablog.com/rss
+  - name: 地方エンジニアの学習日記
+    url: https://ryuichi1208.hateblo.jp/rss
+  - name: セキュリティ関連まとめ
+    url: https://daichkr.hatelabo.jp/antenna/2261401675296895784/feed
+  - name: kakakakakku blog
+    url: https://kakakakakku.hatenablog.com/rss
+atom:
+  - name: pospomeのプログラミング日記
+    url: https://www.pospome.work/feed
+  - name: フューチャー技術ブログ
+    url: https://future-architect.github.io/atom.xml
+  - name: RAKUS
+    url: https://tech-blog.rakus.co.jp/feed
+  - name: DeNA SWAT
+    url: https://swet.dena.com/feed
+  - name: Cybozu
+    url: https://blog.cybozu.io/feed
+  - name: 徳丸浩の日記
+    url: https://blog.tokumaru.org/feeds/posts/default
+  - name: gihyo.jp
+    url: https://gihyo.jp/dev/feed/atom
+  - name: techfeed
+    url: https://techfeed.io/feeds/channels/JavaScript?userId=5e30e9c2578ded9b4c480505
 
 
