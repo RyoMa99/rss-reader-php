@@ -4,7 +4,8 @@
         "symfony/yaml": "^6.3",
         "monolog/monolog": "^3.4",
         "mikey179/vfsstream": "^1.6",
-        "nesbot/carbon": "^2.70"
+        "nesbot/carbon": "^2.70",
+        "guzzlehttp/guzzle": "^7.8"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.5",
